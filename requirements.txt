@@ -1,0 +1,43 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Gmail API
+google-auth>=2.17.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+google-api-python-client>=2.88.0
+
+# PDF processing for bank statements
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+tabula-py>=2.7.0
+
+# Excel/CSV processing
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Email processing
+email-validator>=2.0.0
+imapclient>=2.3.0
+
+# Data visualization (optional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web scraping (for vendor info)
+selenium>=4.10.0
+webdriver-manager>=3.8.0
+
+# Date/time processing
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# Logging and monitoring
+loguru>=0.7.0
+
+# API rate limiting
+ratelimit>=2.2.0
